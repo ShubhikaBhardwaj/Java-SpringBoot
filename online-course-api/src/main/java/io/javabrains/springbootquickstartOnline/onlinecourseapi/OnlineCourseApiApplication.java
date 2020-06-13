@@ -1,13 +1,13 @@
-package io.javabrains.springbootquickstart.courseapi;
+package io.javabrains.springbootquickstartOnline.onlinecourseapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CourseApiApplication {
+public class OnlineCourseApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CourseApiApplication.class, args);
+		SpringApplication.run(OnlineCourseApiApplication.class, args);
 	}
 
 }

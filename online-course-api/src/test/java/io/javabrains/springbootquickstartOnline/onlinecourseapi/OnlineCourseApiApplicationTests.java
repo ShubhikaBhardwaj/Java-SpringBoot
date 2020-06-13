@@ -1,10 +1,10 @@
-package io.javabrains.springbootquickstart.courseapi;
+package io.javabrains.springbootquickstartOnline.onlinecourseapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CourseApiApplicationTests {
+class OnlineCourseApiApplicationTests {
 
 	@Test
 	void contextLoads() {
